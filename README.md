@@ -1,2 +1,3 @@
 # projetoy
-praticando a importância da gestão de configuração
+# Aprendendo como fazer funcionar sa budega
+nao entend oq ele falo e verdade
